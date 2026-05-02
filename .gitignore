@@ -1,0 +1,8 @@
+venv/
+gdal_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.whl
+.env
